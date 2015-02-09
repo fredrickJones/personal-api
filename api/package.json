@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "personal-api",
+  "description": "personal-api ============",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredrickJones/personal-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredrickJones/personal-api/issues"
+  },
+  "homepage": "https://github.com/fredrickJones/personal-api",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
